@@ -10,3 +10,5 @@ push 전에 pull
 -git commit -m "message" //인식할 수 있는  commit 달아
 
 -git push origin +master 
+
+- add
